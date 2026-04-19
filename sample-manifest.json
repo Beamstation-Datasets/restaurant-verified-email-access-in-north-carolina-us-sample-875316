@@ -1,12 +1,12 @@
 {
-  "export_job_id": "83bea624-0f25-456b-bc94-b8e315779662",
+  "export_job_id": "244d365b-4119-4211-bb50-209699f60ec8",
   "id_short": 875316,
-  "published_at": "2026-04-16T19:24:39Z",
+  "published_at": "2026-04-19T07:41:25Z",
   "repo_name": "restaurant-verified-email-access-in-north-carolina-us-sample-875316",
   "sample_asset_name": "beamstation_875316_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/875316/beamstation_875316_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_records": 413,
   "sample_sha256": "bbb32a8b317ff1a824cd54ea699f40a93693d195ca98d7b645ef8f578a283e59",
   "sample_size_bytes": 1618393,
-  "total_records": 4243
+  "total_records": 4133
 }
