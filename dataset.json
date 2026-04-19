@@ -6,17 +6,17 @@
   "config_category": "email",
   "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
   "config_name": "Restaurant Verified Email Access in North Carolina, US",
-  "export_job_id": "83bea624-0f25-456b-bc94-b8e315779662",
+  "export_job_id": "244d365b-4119-4211-bb50-209699f60ec8",
   "github_org": "Beamstation-Datasets",
   "id_short": 875316,
   "location_name": "North Carolina",
   "location_type": "state",
   "repo_name": "restaurant-verified-email-access-in-north-carolina-us-sample-875316",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/875316/beamstation_875316_restaurants-us-nc_SAMPLE_DIST.csv",
-  "sample_pct": 9.73,
+  "sample_pct": 9.99,
   "sample_records": 413,
   "sample_sha256": "bbb32a8b317ff1a824cd54ea699f40a93693d195ca98d7b645ef8f578a283e59",
   "sample_size_bytes": 1618393,
-  "total_records": 4243,
-  "updated_at": "2026-04-08T05:59:48.261323+00:00"
+  "total_records": 4133,
+  "updated_at": "2026-04-15T09:53:04.522738+00:00"
 }
